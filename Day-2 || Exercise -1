@@ -1,0 +1,11 @@
+1).var name =  '30 Days Of JavaScript';
+2).console.log("Name of the string");
+3).var name = '30 Days pf JavaScript';
+   let length = name.length;
+   console.log(length);
+4).var name = '30 Days of Code';
+   let cap = name.toUpparCase();
+   console.log(cap);
+5).let sma = name.toLowerCase();
+   console.log(sma);
+6).   
